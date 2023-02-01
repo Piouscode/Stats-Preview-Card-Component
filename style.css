@@ -266,4 +266,8 @@ img {
     .image-desktop {
         display: none;
     }
+
+    .attribution {
+        margin-top: calc((20/16) * 1rem);
+    }
 }
